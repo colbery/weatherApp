@@ -1,2 +1,2 @@
 # weatherApp
- simple
+https://colbery.github.io/weatherApp/
